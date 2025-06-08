@@ -25,9 +25,9 @@ g++ -o train_reservation train_reservation.cpp
 
 ### 3. Menu Options
 
-==============================
+
      TRAIN RESERVATION SYSTEM
-==============================
+
 1. Add Train
 2. Reserve Seat
 3. Display All Trains
